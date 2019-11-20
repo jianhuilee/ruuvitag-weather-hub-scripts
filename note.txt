@@ -1,0 +1,6 @@
+1. Startup script by systemd:
+    a. cp service file to /etc/systemd/system/
+    b. sudo systemctl enable xxxxx.service
+
+2. GUI tool for sqlite database:
+sqliteman ruuvitag.db
